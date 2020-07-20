@@ -1,7 +1,7 @@
 # SuperIntelligence_Psyche
 ### Super Psyche for short
 
-<img src="Images/1595285323180.png" > 
+<img src="Images/1595285323180.png" width=100 > 
 <img src="Images/1595285353178.png" >
 
 
