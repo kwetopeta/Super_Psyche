@@ -24,6 +24,7 @@
  ## Packages
  * Flame Engine
  * Google Fonts
+ * Intro_Slider
  
  ## What To Include
  * Slivers App Bar
