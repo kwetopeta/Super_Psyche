@@ -25,6 +25,7 @@
  * Flame Engine
  * Google Fonts
  * Intro_Slider
+ * Sprite Widget
  
  ## What To Include
  * Slivers App Bar
