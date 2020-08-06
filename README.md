@@ -23,6 +23,7 @@
  
  ## Packages
  * Flame Engine
+ * Google Fonts
  
  ## What To Include
  * Slivers App Bar
