@@ -12,7 +12,7 @@
 
 - [ ] Testing
 
-- [ ] Release.   *ETA December 2020, subject to change*
+- [ ] Release.   *ETA 2020, subject to change*
 
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=33nanoseconds.Super_Psyche)
@@ -26,6 +26,9 @@
  * Google Fonts
  * Intro_Slider
  * Sprite Widget
+ * Circular_Profile_Avatar
+ * Flame_Splash_Screen
+ * Assets_Audio_Player
  
  ## What To Include
  * Slivers App Bar
