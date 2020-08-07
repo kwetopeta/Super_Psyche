@@ -2,7 +2,7 @@
 
 <img src="Images/1595285323180.png" width=400 >  <img src="Images/2.png" width=400 >
 
-## Get It Here (Don't Click Those Buttons, Its Not Yet Released.)
+## Coming Soon...
 
 [![Image](https://i.imgur.com/Z7qKuho.png)](play-store-link)     [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)]()
 
