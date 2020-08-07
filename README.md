@@ -19,6 +19,37 @@
  
  
  
+ ### Omega 3 Lab
+ * This is where you learn Neuro Linguistic Programming and Identifying Cognitive Distortions.
+ ### Bucket List
+ * This is where you add a list of thing you want to accomplish in life.
+ - Meet Someone (Famous or not famous...)
+ - Learn Something (Skill, Language, Anything...)
+ - Travel (Country, Attend an Event, Special Place...)
+ - Buy that special something ( Tech Gadget...)
+ - Challenge (Try Something for X Days, Deliver a Ted Talk, Publish a Book....)
+ - Achievements (Things you wish to achieve/ have already achieved)
+ - Conquear a Fear ( Public Speaking, Talking to People...)
+ - Act of Kindness ( Volunteer, Mission Trip, Make someone's life better...)
+ - Silly Things ( Cosplay for a day, Harmless prank...)
+ - Satisfy a Curiosity ( Try that special dish, Watch Anime...)
+ ### REBT
+ * Rational Emotive Behavior Therapy
+ - Live Feeback
+ - Brain Mood Snapshot (Journal)
+ ### Mental Models
+ * Explore and utilize various mental models
+ - This will be the gamified part
+ ### Learning Boost
+ * Learn that Skill faster
+ - Breaks down a topic in sizeable chunks
+ - The added benefit of simplifying any topic with Neuro Linguistic Programming
+ ### Finance
+ * Financial literacy models combining lessons from multiple personal finance books (mainly Robert Kiyosaki)
+ -ESBI (Interactive)
+ - Cashflow Quadrant (Income & Balance Sheet)
+ 
+ 
  
  
  ## Packages
