@@ -63,6 +63,20 @@
  * Circular_Profile_Avatar
  * Flame_Splash_Screen
  * Assets_Audio_Player
+ * Fluro (Wildcards -native animation)
+ 
  
  ## What To Include
  * Slivers App Bar
+ * Medical Disclaimer
+ * Selection Controls (Check Box)
+ * Grid List
+ * Choice & Filter Chips 
+ * Floating Action Buttons
+ * Convex Bottom Bar
+ * Tutorial Walkthrough (Interactive)
+ * Credits ( Contributors)
+ * Search bar
+ * Experimental Features
+ * Ability to change app theme
+ 
