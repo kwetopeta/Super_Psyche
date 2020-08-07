@@ -4,7 +4,7 @@
 
 ## Coming Soon...
 
-[![Image](https://i.imgur.com/Z7qKuho.png)](play-store-link)     [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)]()
+[![Image](https://i.imgur.com/Z7qKuho.png)](play-store-link)     [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)]()   <img src="https://f-droid.org/wiki/images/0/06/F-Droid-button_get-it-on.png">
 
 > Technology keeps getting smarter each year, but our brains do not. It's time to reverse that! Meet, Super Psyche, an application that helps humans of all walks of life to learn faster, improve their memory and change their lives. This application is inspired by Neuro Linguistic Programming and Neuroscience.You are not stuck with the same brain you had yesterday and this application can prove it. 
 
