@@ -23,7 +23,7 @@
  
  
  ### Omega 3 Lab
- * This is where you learn Neuro Linguistic Programming and Identifying Cognitive Distortions.
+ * This is where you learn Neuro Linguistic Programming and How To Identify Cognitive Distortions.
  ### Bucket List
  * This is where you add a list of thing you want to accomplish in life.
  - Meet Someone (Famous or not famous...)
