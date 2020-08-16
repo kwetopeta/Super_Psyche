@@ -20,7 +20,7 @@
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=33nanoseconds.Super_Psyche)
  
- 
+ [Full Documentation](https://github.com/33nanoseconds/Super_Psyche/wiki)
  
  ### Omega 3 Lab
  * This is where you learn Neuro Linguistic Programming and How To Identify Cognitive Distortions.
