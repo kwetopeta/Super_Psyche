@@ -79,4 +79,4 @@
  * Search bar
  * Experimental Features
  * Ability to change app theme
- 
+ * Radial Menu
