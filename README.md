@@ -15,7 +15,7 @@
 
 - [ ] Testing
 
-- [ ] Release.   *ETA 2021, subject to change*
+- [ ] Release.   *ETA 2021
 
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=33nanoseconds.Super_Psyche)
