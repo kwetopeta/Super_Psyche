@@ -23,6 +23,7 @@
  [Full Documentation](https://github.com/33nanoseconds/Super_Psyche/wiki)
  
  Research
+ 
  [Powerpoint Edition](https://docs.google.com/presentation/d/1MlaihAx6TEqfneiyi7D0FL3pS1UL2U4OfzCMcQk7JIo/edit?usp=sharing)
  
  [word Doc Edition](https://docs.arcaneoffice.com/View.aspx?info=eyJmbiI6IlRoZSBMaW1pdGF0aW9ucyBvZiBCZWluZyBIdW1hbi5kb2N4IiwibCI6Imh0dHBzOi8vZ2FpYS5ibG9ja3N0YWNrLm9yZy9odWIvMUNuSnJqTFVuOUJFOE44Y2ZpdHFNM3BkWEpyRGhoVEFiZC9iMGVjNmRlMjU0ZGQxY2I3MTA5NDA4NTQzZGYzMDk0YzBhZDBiNmM5OWEwODUwMzYwNGYwOGMyMTc4ZmJlZDRjIiwicGsiOiIxMTBmODIzYmZjNzdiMzdjZjc0YjRlNWY0ZTQzZmRhZDc0MzcxZjVhYmRkNmI0YTA3NjE4N2U2N2ZkZjhiNzY0IiwiaXYiOiIwMGZmZjhmYzg3OTEzOGFmMzYzZmYyY2UzNTg0MWVmOSJ9)
