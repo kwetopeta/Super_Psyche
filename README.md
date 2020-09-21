@@ -28,4 +28,6 @@
  
  [Word Doc Edition](https://docs.google.com/document/d/1lSfp3UqQMRwGeqk56f6Exv3oANzqhsm5YFiFfH_EKeE/edit?usp=sharing)
  
+ [Spreadsheet Edition](https://docs.google.com/spreadsheets/d/e/2PACX-1vQZiTF5r39gh5knUuTG3TNmUkKh2FZtEI1zuyge-ur8nyL2hGnD_f5ez_-wHkMka1CsfIsRrXlrTIup/pubhtml)
+ 
  [Comprehensive Edition](N/A) - Free eBook (coming soon, December 2020)
