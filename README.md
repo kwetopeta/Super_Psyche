@@ -30,6 +30,6 @@
  
  [Spreadsheet Edition](https://docs.google.com/spreadsheets/d/e/2PACX-1vQZiTF5r39gh5knUuTG3TNmUkKh2FZtEI1zuyge-ur8nyL2hGnD_f5ez_-wHkMka1CsfIsRrXlrTIup/pubhtml)
  
- [Wiki Edition](Wiki link)
+ [Wiki Edition](https://github.com/33nanoseconds/Super_Psyche/wiki)
  
  [Comprehensive Edition](N/A) - Free eBook (coming soon, December 2020)
