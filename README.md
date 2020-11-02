@@ -11,6 +11,12 @@
 
 > Technology keeps getting smarter each year, but our brains do not. It's time to reverse that! Meet, Super Psyche, an application that helps humans of all walks of life to learn faster, improve their memory and change their lives. This application is inspired by Neuro Linguistic Programming and Neuroscience.You are not stuck with the same brain you had yesterday and this application can prove it. 
 
+Who?
+What?
+When?
+Where?
+How?
+
 </details> 
 
 <details>
