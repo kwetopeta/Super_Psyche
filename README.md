@@ -20,23 +20,9 @@
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=33nanoseconds.Super_Psyche)
  
- [Full Documentation](https://github.com/33nanoseconds/Super_Psyche/wiki)
- 
- Research
- 
- [Powerpoint Edition](https://docs.google.com/presentation/d/1MlaihAx6TEqfneiyi7D0FL3pS1UL2U4OfzCMcQk7JIo/edit?usp=sharing)
- 
- [Word Doc Edition](https://docs.google.com/document/d/1lSfp3UqQMRwGeqk56f6Exv3oANzqhsm5YFiFfH_EKeE/edit?usp=sharing)
- 
- [Spreadsheet Edition](https://docs.google.com/spreadsheets/d/e/2PACX-1vQZiTF5r39gh5knUuTG3TNmUkKh2FZtEI1zuyge-ur8nyL2hGnD_f5ez_-wHkMka1CsfIsRrXlrTIup/pubhtml)
- 
- [Wiki Edition](https://github.com/33nanoseconds/Super_Psyche/wiki)
- 
- [Comprehensive Edition](N/A) - Free eBook (coming soon, December 2020)
- 
  
  <details>
- <summary> Documentation </summary>
+ <summary> 📗 Documentation </summary>
  
   [Full Documentation](https://github.com/33nanoseconds/Super_Psyche/wiki)
 
