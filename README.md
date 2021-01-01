@@ -47,7 +47,7 @@ How?
 
  [Wiki Edition](https://github.com/33nanoseconds/Super_Psyche/wiki)
 
- [Comprehensive Edition](N/A) - Free eBook (coming soon, December 2020)
+ [Comprehensive Edition](N/A) - Free eBook (coming soon, December 2021)
  
  </details>
  
