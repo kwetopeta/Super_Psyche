@@ -24,14 +24,18 @@ Where?
 - Cross-platform is the primary goal. Android & Linux distributions will probably be my top priority.
 
 How?
-Research research reseach & lots of user testing.
+- Research research reseach & lots of user testing.
 
 ## Why?
 - I searched around the internet and i couldn't find the application that i was looking for. I found apps that were close to what i was looking for, but they were still lacking. So, i decided, why not just create the application you are looking for, if it's not avaialable? This project begun and its inspired by a few other apps listed below:
--
--
--
--
+- [Mindvalley Learn](https://play.google.com/store/apps/details?id=com.mindvalley.mva&hl=en&gl=US)
+- [LifeUp](https://play.google.com/store/apps/details?id=net.sarasarasa.lifeup)
+- [Habitica](https://play.google.com/store/apps/details?id=com.habitrpg.android.habitica)
+- [TaskHero](https://play.google.com/store/apps/details?id=com.whetware.taskhero)
+- [Lumosity](https://play.google.com/store/apps/details?id=com.lumoslabs.lumosity)
+- [Elevate](https://play.google.com/store/apps/details?id=com.wonder)
+- [NeuroNation](https://play.google.com/store/apps/details?id=air.nn.mobile.app.main)
+
 
 </details> 
 
