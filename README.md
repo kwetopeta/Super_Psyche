@@ -20,10 +20,10 @@
 ## When?
 I am aiming for the year 2025, but its highly possible to build this app before then. 2025 is SMART goal (specific, measurable, achievable, relevant and time based)
 
-Where?
+## Where?
 - Cross-platform is the primary goal. Android & Linux distributions will probably be my top priority.
 
-How?
+## How?
 - Research research reseach & lots of user testing.
 
 ## Why?
