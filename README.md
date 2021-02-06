@@ -27,7 +27,7 @@ I am aiming for the year 2025, but its highly possible to build this app before 
 - Research research reseach & lots of user testing.
 
 ## Why?
-- I searched around the internet and i couldn't find the application that i was looking for. I found apps that were close to what i was looking for, but they were still lacking. So, i decided, why not just create the application you are looking for, if it's not avaialable? This project begun and its inspired by a few other apps listed below:
+- I searched around the internet and i couldn't find the application that i was looking for. I found apps that were close to what i was looking for, but they were still lacking. So, i decided, why not just create the application you are looking for, if it's not avaialable? This project begun with the inital question og, why not? and its also inspired by a few other apps that i have used that are listed below:
 - [Mindvalley Learn](https://play.google.com/store/apps/details?id=com.mindvalley.mva&hl=en&gl=US)
 - [LifeUp](https://play.google.com/store/apps/details?id=net.sarasarasa.lifeup)
 - [Habitica](https://play.google.com/store/apps/details?id=com.habitrpg.android.habitica)
