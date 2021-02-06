@@ -4,7 +4,7 @@
 
 ## Coming Soon...
 
-[![Image](https://i.imgur.com/Z7qKuho.png)](play-store-link)     [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)]()   <img src="https://f-droid.org/wiki/images/0/06/F-Droid-button_get-it-on.png">
+[![Image](https://i.imgur.com/Z7qKuho.png)](play-store-link)     [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)]()   <img src="https://f-droid.org/wiki/images/0/06/F-Droid-button_get-it-on.png">  <a href="https://aur.archlinux.org/packages/themix-full-git"><img src="https://raw.githubusercontent.com/themix-project/oomox/master/packaging/download_aur.png" height="54"></a>
 
 <details>
  <summary> 💡 Description </summary>
