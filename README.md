@@ -11,11 +11,27 @@
 
 > Technology keeps getting smarter each year, but our brains do not. It's time to reverse that! Meet, Super Psyche, an application that helps humans of all walks of life to learn faster, improve their memory and change their lives. This application is inspired by Neuro Linguistic Programming and Neuroscience.You are not stuck with the same brain you had yesterday and this application can prove it. 
 
-Who?
-What?
-When?
+## Who?
+- Its for anyone who wants a better brain, if that's you, then this app is for you.
+
+## What?
+- A gamified brain health application that utilizes the vast research available in Neuroscience to help users learn faster and achieve more.
+
+## When?
+I am aiming for the year 2025, but its highly possible to build this app before then. 2025 is SMART goal (specific, measurable, achievable, relevant and time based)
+
 Where?
+- Cross-platform is the primary goal. Android & Linux distributions will probably be my top priority.
+
 How?
+Research research reseach & lots of user testing.
+
+## Why?
+- I searched around the internet and i couldn't find the application that i was looking for. I found apps that were close to what i was looking for, but they were still lacking. So, i decided, why not just create the application you are looking for, if it's not avaialable? This project begun and its inspired by a few other apps listed below:
+-
+-
+-
+-
 
 </details> 
 
