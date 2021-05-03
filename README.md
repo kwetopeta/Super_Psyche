@@ -11,30 +11,9 @@
 
 > Technology keeps getting smarter each year, but our brains do not. It's time to reverse that! Meet, Super Psyche, an application that helps humans of all walks of life to learn faster, improve their memory and change their lives. This application is inspired by Neuro Linguistic Programming and Neuroscience.You are not stuck with the same brain you had yesterday and this application can prove it. 
 
-## Who?
-- Its for anyone who wants a better brain, if that's you, then this app is for you.
-
-## What?
-- A gamified brain health application that utilizes the vast research available in Neuroscience to help users learn faster and achieve more. 
-
-## When?
-I am aiming for the year 2025, but its highly possible to build this app before then. 2025 is SMART goal (specific, measurable, achievable, relevant and time based)
-
-## Where?
-- Cross-platform is the primary goal. Android & Linux distributions will probably be my top priority. Android, Linux, Web (extension), Windows and Mac OS. 
 
 ## How?
 - Research research reseach & lots of user testing. 
-
-## Why?
-- I searched around the internet and i couldn't find the application that i was looking for. I found apps that were close to what i was looking for, but they were still lacking. So, i decided, why not just create the application you are looking for, if it's not avaialable? This project begun with the inital question og, why not? and its also inspired by a few other apps that i have used that are listed below:
-- [Mindvalley Learn](https://play.google.com/store/apps/details?id=com.mindvalley.mva&hl=en&gl=US)
-- [LifeUp](https://play.google.com/store/apps/details?id=net.sarasarasa.lifeup)
-- [Habitica](https://play.google.com/store/apps/details?id=com.habitrpg.android.habitica)
-- [TaskHero](https://play.google.com/store/apps/details?id=com.whetware.taskhero)
-- [Lumosity](https://play.google.com/store/apps/details?id=com.lumoslabs.lumosity)
-- [Elevate](https://play.google.com/store/apps/details?id=com.wonder)
-- [NeuroNation](https://play.google.com/store/apps/details?id=air.nn.mobile.app.main)
 
 
 </details> 
@@ -99,4 +78,31 @@ Nothing yet....
  
 </details>
  
+<details><summary>🧠 Q&A</summary>
  
+ ![](https://i.redd.it/1ctpb8dor8w61.png)
+ 
+ 1. **What is Super Psyche?**
+ - A gamified brain health application that utilizes the vast research available in Neuroscience to help users learn faster and achieve more. 
+
+2. **Who is the target audience for Super Psyche?**
+- Its for anyone who wants a better brain, if that's you, then this app is for you.
+
+3. **Where will this application be available once its realeased?**
+- Cross-platform is the primary goal. Android & Linux distributions will probably be my top priority. Android, Linux, Web (extension), Windows and Mac OS.
+ 
+4. **When do you plan to release this application?**
+- I am aiming for the year 2025, but its highly possible to build this app before then. 2025 is SMART goal (specific, measurable, achievable, relevant and time based)
+
+5. **Why are you building this application in the first place?**
+- I searched around the internet and i couldn't find the application that i was looking for. I found apps that were close to what i was looking for, but they were still lacking. So, i decided, why not just create the application you are looking for, if it's not avaialable? This project begun with the inital question og, why not? and its also inspired by a few other apps that i have used that are listed below:
+- [Mindvalley Learn](https://play.google.com/store/apps/details?id=com.mindvalley.mva&hl=en&gl=US)
+- [LifeUp](https://play.google.com/store/apps/details?id=net.sarasarasa.lifeup)
+- [Habitica](https://play.google.com/store/apps/details?id=com.habitrpg.android.habitica)
+- [TaskHero](https://play.google.com/store/apps/details?id=com.whetware.taskhero)
+- [Lumosity](https://play.google.com/store/apps/details?id=com.lumoslabs.lumosity)
+- [Elevate](https://play.google.com/store/apps/details?id=com.wonder)
+- [NeuroNation](https://play.google.com/store/apps/details?id=air.nn.mobile.app.main)
+
+
+ </details>
