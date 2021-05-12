@@ -75,6 +75,25 @@
 17. **How will the learning boost feature work?**
 - For this part of the program, i plan on making it link with a persons Second Brain (Digital note taking system). It would definitely be easier to implement with the Foam VScode extension, markor app and Obsidian than other note taking tools. 
 
+18. **What exactly is the Omega 3 Lab?**
+-
+
+19. **What is the inspiration behinf the Omega 3 Lab?**
+-
+
+20. **What is the vision for the finance feature?**
+-
+
+21. **What is the finance feature based on?**
+-
+
+22. **Is gamifying neuroscience even possible?**
+-
+
+23. **Where exactly is the health attributes that you speak of?**
+-
+
+24. **
 
 
  </details>
