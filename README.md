@@ -42,5 +42,39 @@
 - [Wiki Edition](https://github.com/33nanoseconds/Super_Psyche/wiki)
 - [Comprehensive Edition](N/A) - Free eBook (coming soon, December 2021)
 
+7. **What programming language are you planning to use to build this?**
+- The project decides the language, thats not something you get to decide before hand. I was thinking of using Dart and the flutter framework, but i might end up using Kotlin or Java for the Android portion, and maybe Go for the desktop application. Heck i might even use javascript, even though i despise it and believe that it should only be used in the browser and not for desktop apps.
+
+8. **How do you plan to market this app, once you build it?**
+- Thats a bad approach, its better to sell your vision before you actually build the thing. Thats how trailers work and it just so happens to work for development as well. A game developer shows you gaming footage of what their game looks like before they finish it. 
+
+9. **Are you qualified to create this kind of application?**
+- I dont credentials stop me from creating value for others even if that person is only me or handful of people. Thats the beauty of the permissionless mindset
+
+10. **Do you plan on adding any animations and if so how?**
+- I do plan on adding some animations, but i will probably keep it to a minimal. I plan on using the Rive App to do that, because i feel that its better than using SVGator which would require that i use react native. Rive has an API that implement flawlessly into flutter and kotlin apps. SVGator is limited to exporting CSS and javascript (web optimized, duh).
+
+11. **Do you plan on makinf Super Psyche look just like mockup screenshots that you created in Figma?**
+- Most definitely, but it with some changes to the size, color scheme and icon placement. I only have an idea of what i want the splashscreen to look like and the main UI
+
+12. **Are you really planning on adding a bucket list feature?**
+- I know its morbid, but i plan to gamify that feature, so there is definitely going to be a paradigm shift.
+
+13. **What sort of style does the bucket list feature that you wish to implement possess?**
+- It will have the same sort of style as the TED Talk video that Ben Nemtim gave, Its loosely based on his book as well and another TED Talk video by Travis Bell
+
+14. **What will the mental models button contain?**
+- This feature will have a multitude of mental models collected across various streams of research, but refined and renamed to gaming terms. Well, sme gaming names and made up words in order to avoid copyright and make it look unique. Everyone will have access to one mental model and the rest will be locked. Only when you level up and complete quests is when you unlock more mental models. Nothing is paywalled, its all intellectuall prowesss. The first mental model will be Kaizen
+
+15. **Will users be able to add their own mental models?**
+- I have thought about it and to be sincere, i might have two version of the app, rather a stable and a nightly version. The stable version wont have many options when it comes to customization, but nightly version will. 
+
+16. **What exactly will the REBT feature do?**
+- My initial plan for it sounded ridiculous, almost like some fantasy dream because it is. I was thinking of adding the feaure that enables you to talk to the app. The feature functions like your neurotherapist, but thats requires load of resources and engineering. Natural language processing isnt there yet and cant possibly function to a neuroscientific degree (Rational Emotive Behvior Therapy). The REBT feature will simply contain an index/ dictionary of language patterns and neurolinguistic programming dispute to the ABC equation of reasoning (D &E)
+
+17. **How will the learning boost feature work?**
+- For this part of the program, i plan on making it link with a persons Second Brain (Digital note taking system). It would definitely be easier to implement with the Foam VScode extension, markor app and Obsidian than other note taking tools. 
+
+
 
  </details>
