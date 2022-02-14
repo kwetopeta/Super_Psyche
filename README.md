@@ -1,5 +1,8 @@
 # Super_Psyche
 <!-- If Neuro Linguistic Programming is the programming language of the brain then Super Psyche is the scripting language of the Brain. -->
+
+[Figma Design](https://www.figma.com/file/VCk0G6bUtMEvzE2eVnVxkq/Super-Psyche)
+
 <img src="Images/1595285323180.png" width=400 >  <img src="Images/2.png" width=400 >
 
 ## Coming Soon...
